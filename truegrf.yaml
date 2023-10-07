@@ -1,4 +1,7 @@
 description: A new TrueGRF project based on FIRS Steeltown
+grfid: f16a43b9
 license: GPL-2.0
+name: objecttest
 type: industry
+url: https://github.com/mrsunman/objecttest
 version: 6
